@@ -2,17 +2,18 @@ var pass = ["a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n"
 
 print("Digite o tamanho da senha: ")
 
+// o if let para iniciar uma constante atribuida ao readLine() esse tratamento é recomendado pra evitar o nil
 if let input = readLine(), let passLength = Int(input){
     if !pass.isEmpty {
         print("Copie sua senha:")
-        for _ in 0..<passLength {
+        for i in 0..<passLength {
             if let randomLetters = pass.randomElement(){
                 print(randomLetters, terminator: "")
             } 
         }
         print()
     } else {
-        print("array vazia")
+        print("Array vazia")
     }
 } else {
     print("Entrada inválida")
