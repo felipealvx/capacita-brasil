@@ -21,4 +21,5 @@ alterações realizadas segundo sugestões dos mentores:
 adicionar uma opção na calculadora para quando terminar de fazer a operação o usuário poder escolher se quer continuar fazendo calculos ou sair da calculadora - implementado ✅
 
 ### Desafios
-Como os desafios são ilustrativos _( apenas os códigos limpos previamente testados (Replit)[replit.com])_ optei por organizá-los aqui e decidi renomea-los como: desafio01, desafio02...
+Como os desafios são ilustrativos _( apenas os códigos limpos previamente testados (Replit)[replit.com]
+)_ optei por organizá-los aqui e decidi renomea-los como: desafio01, desafio02...
