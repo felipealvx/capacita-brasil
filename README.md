@@ -16,3 +16,6 @@ utilizei também SWITCH CASE para informar ao usuário qual operação ele desej
 
 #### Gerador de Senha:
 No gerador de senhas utilizei uma array para armazenar os caracteres que eu queria para formar a senha e percorri eles com um loop num total de vezes que o usuário informasse e me retornaria um caractere aleatório a cada incrementação do loop.'
+
+alterações realizadas segundo sugestões dos mentores:
+adicionar uma opção na calculadora para quando terminar de fazer a operação o usuário poder escolher se quer continuar fazendo calculos ou sair da calculadora - implementado ✅
