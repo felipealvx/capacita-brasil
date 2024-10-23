@@ -19,3 +19,6 @@ No gerador de senhas utilizei uma array para armazenar os caracteres que eu quer
 
 alterações realizadas segundo sugestões dos mentores:
 adicionar uma opção na calculadora para quando terminar de fazer a operação o usuário poder escolher se quer continuar fazendo calculos ou sair da calculadora - implementado ✅
+
+### Desafios
+Como os desafios são ilustrativos _( apenas os códigos limpos )_ decidi renomear como: desafio01, desafio02...
