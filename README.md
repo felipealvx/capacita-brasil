@@ -1,5 +1,7 @@
 ### Atividades da linguagem de programação SWIFT do curso de Programação IOS CAPACITA BRASIL
 
+Site NOTION: [Acesse](https://evanescent-enthusiasm-447.notion.site/CBL-Capacita-Brasil-11845308ebea80b78a80f7e730be25bd?pvs=4)
+
 A atividade consiste em criar programas em SWIFT que utilizem o CLI (Command Line Interface) e que o usuário possa dar comandos de entrada:
 
 <hr>
