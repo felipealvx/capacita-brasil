@@ -1,7 +1,27 @@
-//crie uma função para filtrar elementos de um array de inteiros utilizando closures.Esta função deve receber uma array de inteiros e o closure que serve como parametro de filtro do array. Pesquise sobre o metodo filter da struct array e estude seu funcionamento para conseguir reproduzi-lo
+import Foundation
 
-let arr = [1,2,3,4,5,6,7,8,9,10]
-
-let numberFil = arr.filter { (num) -> Bol in
-    return num % 2 == 0
+protocol Shape {
+    var cor: String { get }
+    var raio: Double { get }
 }
+
+protocol Square {
+    var lado: Double { get }
+}
+
+protocol Circle {
+    var diametro: Double { get }
+}
+
+struct CircleOne: Shape, Circle{
+    var cor: String = "Vermelho"
+    var raio: Double = 12.2
+    var diametro: Double = 22.4
+}
+
+struct SquareOne: Shape, Square {
+    var cor: String = "Verde"
+    var raio: Double = 10
+    var lado: Double = 20
+}
+
